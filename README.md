@@ -1,2 +1,2 @@
-# PHP_Xampp-b-sico
+# PHP-CRUDbasic
 CRUD com PHP e Xampp com conexão MYSQL.
